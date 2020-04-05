@@ -11,9 +11,9 @@
     4. 모델의 구조  
     ![구조](https://user-images.githubusercontent.com/50386280/78476121-4e834880-777f-11ea-95bf-22e6fd64ddf3.png)
     5. 결과  
-    **그래프**  
+                    그래프  
     ![그래프](https://user-images.githubusercontent.com/50386280/78477495-ae79ef00-777f-11ea-8b49-cf7ba379308e.png)  
-    **test set 정확도**  
+                  test set 정확도  
     ![결론](https://user-images.githubusercontent.com/50386280/78477874-c9e4fa00-777f-11ea-810d-c5c7274e2e48.png)
 
 
