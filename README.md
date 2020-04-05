@@ -20,8 +20,8 @@
 
 4. 파일설명
     [input file : folder.folder (대용량인 관계로 sample만) , output model : CNN_model.h5]
-    - input_data.ipynb : 전체 데이터 중 가용한 전체 데이터의 개수와 train set, test set으로 사용할 데이터를 overview.
-    - malignant.ipynb :
+    1 input_data.ipynb : 전체 데이터 중 가용한 전체 데이터의 개수와 train set, test set으로 사용할 데이터를 overview.
+    2 malignant.ipynb :
         1. jpg데이터를 int형으로 변환
         2. jason 파일에서 피부암 유무 추출
         3. CNN알고리즘을 계층적 구조로 적용하여 모델링.
